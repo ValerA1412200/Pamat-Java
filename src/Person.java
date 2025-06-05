@@ -25,6 +25,8 @@ public class Person {
     }
     public String toString() {
         return " Имя " + this.name +  " Возраст " + this.age;
+
     }
 }
+
 

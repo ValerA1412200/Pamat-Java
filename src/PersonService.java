@@ -11,6 +11,5 @@ public class PersonService {
         Person luke = new Person("Luke ", 19);
         padme.child = luke;
         luke.parent = padme;
-
     }
 }

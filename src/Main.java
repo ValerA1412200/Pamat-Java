@@ -25,7 +25,7 @@ public class Main {
         System.out.println("sarah.child.getAge() = " + sarah.child.getName());
         // System.out.println("john.getName() = " + john.getName());
         System.out.println("sarah.getAge() = " + sarah.getAge());
-
-    }
+            System.out.println(" Новая ветка ");
+        }
 }
 }
